@@ -1,10 +1,4 @@
-# *- coding: utf-8 -*-
-"""Untitled1.ipynb
 
-
-
-
-"""
 import os
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import CSVLogger, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
