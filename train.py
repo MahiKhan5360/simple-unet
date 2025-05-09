@@ -14,9 +14,9 @@ if __name__ == "__main__":
 
     # Parameters
     image_size = 256
-    batch_size = 8
+    batch_size = 16
     lr = 1e-4
-    epochs = 200
+    epochs = 100
 
     # Assuming train_gen and valid_gen are provided elsewhere
     # Replace these with your actual data generators or arrays
