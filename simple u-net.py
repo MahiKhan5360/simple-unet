@@ -107,5 +107,4 @@ def simple_unet_model(img_height, img_width, img_channels, num_classes=1, learni
 
 
 if __name__ == "__main__":
-    # Example usage
-    model = simple_unet_model(img_height=256, img_width=256, img_channels=3, num_classes=1)
+   
