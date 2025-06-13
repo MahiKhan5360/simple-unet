@@ -1,7 +1,7 @@
 Simple U-Net Model for Medical Image Segmentation
 Overview
 This repository contains unet_model.py, a simple U-Net model for medical image segmentation, designed for skin lesion segmentation on the ISIC 2018 dataset. The U-Net is a convolutional neural network with an encoder-decoder architecture and skip connections, ideal for binary segmentation. Built with TensorFlow 2.17.0 and Python 3.11, it is lightweight and beginner-friendly.
-Note: This repository is private. .
+
 Model Architecture
 The U-Net model includes:
 
