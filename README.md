@@ -78,15 +78,7 @@ print("Prediction shape:", prediction.shape)  # Expected: (1, 256, 256, 1)
 
 Troubleshooting
 
-Markdown Rendering:
 
-If bold or bullet points don’t show, verify README.md:cat README.md
-
-Ensure - for bullets and **** for bold (e.g., text).
-Preview in VS Code or Dillinger.
-Re-upload:git add README.md
-git commit -m "Fix Markdown rendering"
-git push origin main
 
 
 
