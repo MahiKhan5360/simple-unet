@@ -109,9 +109,7 @@ Commit: git commit -m 'Add YourFeature'.
 Push: git push origin feature/YourFeature.
 Open a Pull Request.
 
-License
-MIT License. See LICENSE.
-Acknowledgments
+
 
 ISIC 2018: Dataset by International Skin Imaging Collaboration.
 TensorFlow: Framework for model implementation.
