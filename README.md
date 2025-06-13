@@ -43,14 +43,6 @@ Data (optional):
 ISIC 2018 dataset in Google Drive (e.g., /content/drive/MyDrive/ISIC2018/).
 
 
-
-Installation
-
-Clone the repository (requires access):
-git clone git@github.com:your-username/simple-unet-model.git
-cd simple-unet-model
-
-
 Install TensorFlow:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
