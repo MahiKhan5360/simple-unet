@@ -99,15 +99,6 @@ Use tensorflow==2.17.0.
 
 
 
-Contributing
-To contribute:
-
-Request access to the private repository.
-Fork (if granted access).
-Create a branch: git checkout -b feature/YourFeature.
-Commit: git commit -m 'Add YourFeature'.
-Push: git push origin feature/YourFeature.
-Open a Pull Request.
 
 
 
